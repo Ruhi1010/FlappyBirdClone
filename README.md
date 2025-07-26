@@ -1,4 +1,4 @@
-# NEON FLAPPY BIRD - Code Explanation & Documentation
+# FLAPPY BIRD
 
 A visually enhanced Flappy Bird clone using **Pygame**, featuring:
 - Neon aesthetic with animated backgrounds and particles
